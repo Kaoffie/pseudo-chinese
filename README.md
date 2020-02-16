@@ -10,6 +10,10 @@ Join us on the Nisechūgokugo (Pseudo-Chinese) Research Club Discord, where all 
 <br>
 
 ---
-Introduction to 偽中国語 (Pseudo-Chinese):
+Introduction to 偽中国語 (Pseudo-Chinese): https://github.com/Kaoffie/pseudo-chinese/wiki/Introduction
 
-https://github.com/Kaoffie/pseudo-chinese/wiki/Nisechūgokugo-(偽中国語)-Introduction
+Phrase List: https://github.com/Kaoffie/pseudo-chinese/wiki/Phrases
+
+繁體中文版： https://github.com/Kaoffie/pseudo-chinese/wiki/Introduction-zh-TW
+
+简体中文版： https://github.com/Kaoffie/pseudo-chinese/wiki/Introduction-zh-CN
